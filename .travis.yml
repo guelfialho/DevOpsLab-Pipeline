@@ -1,12 +1,12 @@
 language: node_js
 node_js:
-  - node
+    - 17
 sudo: false
 script:
-  - npm test
+    - npm test
 deploy:
-  provider: heroku
-  api_key:
-    secure: $HEROKU_KEY
-  app: devops-ultimate
-  edge: true
+    provider: heroku
+    api_key:
+        secure: $HEROKU_KEY
+    app: devops-ultimate
+    edge: true

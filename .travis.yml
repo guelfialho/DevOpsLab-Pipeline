@@ -7,6 +7,6 @@ script:
 deploy:
     provider: heroku
     api_key:
-        secure: $HEROKU_KEY
-    app: devops-ultimate
+        secure: Av6fNMFFf0+kX0z300VYb6hgoUaBGE+NfRiKLDAaDYh6VsLu2VUuRuS9BBdPKI6kiJsPMjE0T5t9ygyAtZ6gM5uaKTL5wWkPEOeK12CFYbexW5Xw6mBvLYc+XUQkaaEghyvygPXPAUnqRnvKURnNLwQM5XbF97gh+YgjJYttBlOpDJkUIcdZFNIHPy4/BQ5sNeX7fKIaLYAP85FjolOleUzFKSzwbq+kGmc9k0qO1D0mJBU6OiSqgbcez2p8aPfCuc3ZdbIRKVSu7c9PbD3G/149VcKTPRU4yHQ4Ey2WiXVoiPigHmYBMrHaFlJmKuhSmEY/SuqJCIWWkScOXdFsn5GcZq/uA+cMU6pBvZ9gLYc6WIwvFEO+97ZOG1anJlvFNsQSwPrIAi0jLprH/cTYWJw4bb8TX+tI/Dy7hkw6/hxgH6s02gCn1Nl+TxBPT5j8tSBj4uVT927acr2dpsQ+AgDTkVqBK/SQKCyHz/3C1vfbuycrD28hOUIr5/Q4HjAmUM9qbk78ji3fIVHCXTRoUDxePGuGlhCULnP63Ks5iW/ZAxRcuBo8OLwtYPSSMcMFS31q9xlAu/l2v5ktFm0C/7S8PGtq9cAFKBbmSxXX/tTqBSm/Uv0FSxKzFXlPB2zP2M0EQPaCcI+JcH6Y2FVP3QgoFxg1y+b4wm4w6LYkCF0=
+    app: sprint-devops-miguel
     edge: true
